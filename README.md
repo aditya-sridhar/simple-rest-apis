@@ -12,6 +12,6 @@ Read the blog post to make the best use of this repo :)
 Clone this code to your local using the following command
 
 ```bash
-git clone https://github.com/aditya-sridhar/springboot-rest-apis.git
+git clone https://github.com/aditya-sridhar/simple-rest-apis.git
 ```
 
