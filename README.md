@@ -7,6 +7,12 @@ The link to the blog post is given here.
 
 Read the blog post to make the best use of this repo :)
 
+## Pre-requisite
+
+Ensure you have maven installed in your system. You can install it from [https://maven.apache.org/](https://maven.apache.org/)
+
+Also ensure maven path is set in you System so that you can run `mvn` commands
+
 ## Cloning the code to your local
 
 Clone this code to your local using the following command
@@ -15,3 +21,10 @@ Clone this code to your local using the following command
 git clone https://github.com/aditya-sridhar/simple-rest-apis.git
 ```
 
+## Run the Application
+
+The Application can be run using the following command 
+
+```bash
+mvn spring-boot:run
+```
