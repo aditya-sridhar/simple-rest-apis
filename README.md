@@ -21,6 +21,8 @@ Clone this code to your local using the following command
 git clone https://github.com/aditya-sridhar/simple-rest-apis.git
 ```
 
+Or you can import the project into an IDE of your choice. I Used Eclipse to test this out
+
 ## Run the Application
 
 The Application can be run using the following command 
